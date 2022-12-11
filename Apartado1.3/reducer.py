@@ -23,7 +23,7 @@ for line in sys.stdin:
     # Reinicia o total
     if thisKey not in max_values.keys():
         max_values[thisKey]=thisSale
-    elif thisSale > max_values[thisKey]:
+    elif float(thisSale) > float(max_values[thisKey]):
      max_values[thisKey] = thisSale
 
 # Escribe o ultimo par, unha vez rematado o bucle
