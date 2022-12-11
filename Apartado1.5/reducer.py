@@ -21,7 +21,7 @@ for line in sys.stdin:
 
     # Escribe un par key:value ante un cambio na key
     # Reinicia o total
-    total_ventas = total_ventas + float(thisSale)
+    total_ventas += float(thisSale)
 
 # Escribe o ultimo par, unha vez rematado o bucle
-    print("Total de ventas:\t"+str(total_ventas))
+print("Total de ventas:\t"+str(total_ventas))
