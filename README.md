@@ -23,3 +23,9 @@ El resultado se puede deber a que es el valor máximo permitido por pago
 <h1>Resultado apartado4</h1> 
   
 ![image](https://user-images.githubusercontent.com/92920783/206916668-91577bb2-aa91-4748-b9cd-24c5a9eecd2a.png)
+  
+<h1>Resultado apartado5</h1>
+  
+![image](https://user-images.githubusercontent.com/92920783/206922913-a0d2d609-9ca4-4eac-b3f0-d37058d902f4.png)
+  
+
