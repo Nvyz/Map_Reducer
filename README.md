@@ -12,8 +12,8 @@ El resto de resultados son sobre el fichero purchases.txt
   
 <h1>Resultado apartado3</h1>
   
-![image](https://user-images.githubusercontent.com/92920783/206914591-cbf260c2-f087-428f-9eeb-2fadcea8c102.png)
-  
+![image](https://user-images.githubusercontent.com/92920783/206923926-bd329e4d-e1fb-4778-9a03-c703a3cd6d26.png)
+
 <br>  
   
 El resultado se puede deber a que es el valor máximo permitido por pago
